@@ -1,7 +1,0 @@
-{
-  "routes": [
-    "/",
-    "/create-employee",
-    "/employee-list"
-  ]
-}
