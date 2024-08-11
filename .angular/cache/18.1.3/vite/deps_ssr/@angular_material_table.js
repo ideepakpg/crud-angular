@@ -10,10 +10,10 @@ import {
   coerceNumberProperty,
   getRtlScrollAxisType,
   supportsScrollBehavior
-} from "./chunk-7HVY23AI.js";
+} from "./chunk-MWYON6OC.js";
 import {
   DOCUMENT
-} from "./chunk-IBC7WQDA.js";
+} from "./chunk-OEKFUUT6.js";
 import {
   Attribute,
   ChangeDetectionStrategy,
